@@ -1,0 +1,40 @@
+body{
+    background-color:#EEEEEE;
+}
+
+h3.name{
+    text-align:center;　//文字などの位置を中央にする
+}
+
+.container{
+    margin-top:10px;
+    background:#FEFEFE;
+}
+
+.icon{
+    text-align:center;
+}
+
+img.meImg{
+    width:200px;  //最大サイズを設定しておく
+    padding:10px;  //余白があるときれいに見える
+}
+
+.intro{
+    padding:10px;
+}
+
+p.description{
+    padding:10px;
+    font-size:1.5em;//emはフォントサイズのデフォルト値16pxに対して何倍かを示すもの
+    border-radius:10px;
+    background-color:#339999;
+}
+
+.illustya{
+    text-align:center;
+}
+
+img.illust{
+    width:250px;
+}
